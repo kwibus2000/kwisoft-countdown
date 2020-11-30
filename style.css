@@ -36,8 +36,8 @@ body * {
   z-index: 1;
 }
 
-h1 {
-  font-size: 60px;
+.newyear {
+  font-size: 40px;
   margin: -80px 0 40px;
 }
 
@@ -70,8 +70,8 @@ h1 {
 }
 
 @media (max-width: 500px) {
-  h1 {
-    font-size: 45px;
+  .newyear {
+    font-size: 20px;
   }
 
   .time {
